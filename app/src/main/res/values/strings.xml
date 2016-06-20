@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMDB Movie App</string>
+    <string name="mainActivity_label">IMDb Movie App</string>
+    <string name="button_main_search">Search IMDb.com</string>
+    <string name="searchActivity_label">Search Movies</string>
+    <string name="detailActivity_label">Movie Details</string>
+    <string name="webViewActivity_label">Movie Webview</string>
+    <string name="detail_finish">Finish</string>
+    <string name="detail_plot">Plot:</string>
+</resources>
